@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: config-service
+Implementation-Version: 1.0-SNAPSHOT
+Built-By: manuel.romero
+Implementation-Vendor-Id: weather.fit
+Build-Jdk: 1.8.0_181
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/config-service
+Created-By: Maven Integration for Eclipse
+

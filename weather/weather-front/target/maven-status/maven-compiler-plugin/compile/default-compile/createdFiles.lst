@@ -1,0 +1,6 @@
+com\poc\fit\front\WeatherServlet.class
+com\poc\fit\front\model\ResultDTO.class
+com\poc\fit\front\model\Weather.class
+com\poc\fit\front\enums\FrontEnum.class
+com\poc\fit\front\client\WeatherClient.class
+com\poc\fit\front\exception\FrontException.class
